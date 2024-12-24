@@ -1,4 +1,4 @@
-# [WACV 2024] Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications
+# [WACV 2025] Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications
 
 **Towards High-fidelity Head Blending with Chroma Keying for Industrial Applications**
 Hah Min Lew*, Sahng-Min Yoo*, Hyunwoo Kang*, and **Gyeong-Moon Park** 
